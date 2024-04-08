@@ -1,0 +1,16 @@
+
+
+*El programa toma la ubicacion de donde esta guardado; 
+por lo tanto organiza los archivos solo donde esté, este guardado.
+
+El programa es funcional y organizara sus archivos asi:
+
+carpeta:                   sub carpetas:                 tipos de archivos
+Archivos organizados-----> Texto                         (txt, doc, docx)
+                    -----> Imagen                        (jpg, gif, bmp, png)
+                    -----> Video                         (avi, mp4, mpeg, mwv)
+                    -----> Ejecucion o del sistema       (exe, bat, dll, sys)  
+                    -----> Audio                         (mp3, wav, wma)         
+                    -----> Archivos comprimidos          (zip, rar, tar)         
+                    -----> Lectura                       (pdf, epub, azw, ibook)      
+                    -----> Imagen de disco               (iso, mds, img)    
